@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kagirim
 - 👀 I’m interested in Python, networking, cyber security, machine learning Web development
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Machine learning
+- 🌱 Machine learning 
+- 💞️ I’m looking to collaborate on web-based product development
 - 📫 How to reach me morriskagiri@gmail.com
 
 <!---
