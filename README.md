@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kagirim
-- 👀 I’m interested in Python, networking, cyber security, machine learning Web development
+- 👀 Python, networking, cyber security, machine learning Web development
 - 🌱 Machine learning 
-- 💞️ I’m looking to collaborate on web-based product development
-- 📫 How to reach me morriskagiri@gmail.com
+- 💞️ Looking to collaborate on web-based product development
+- 📫 morriskagiri@gmail.com
 
 <!---
 Kagirim/Kagirim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
